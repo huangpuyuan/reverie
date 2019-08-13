@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Reverie - A ridiculously elegant Jekyll theme
+title: 介绍 Reverie - 一个简洁优雅的Jekyll主题
 categories: [Miscellaneous, Jekyll]
 ---
 
@@ -83,5 +83,3 @@ The generated sitemap of your blog can be found at <https://yourgithubusername.g
 ## License
 
 MIT
-
-
