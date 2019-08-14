@@ -3,9 +3,8 @@ layout: post
 title: 剩余寿命模型
 categories: 精算
 ---
->剩余寿命模型(The Future Lifetime Model)
+剩余寿命模型(The Future Lifetime Model)__摘自 [孟生旺](http://blog.sina.com.cn/mengshw){:target="_blank"} 《精算学基础》
 
-摘自孟生旺《精算学基础》
 #### 1.剩余寿命
 * 剩余寿命：用符号$(x)$来表示一个年龄为$x$岁的个体，用$T$或更具体的$T(x)$来表示该个体的未来剩余寿命。
 * 剩余寿命$T(x)$是一个随机变量，其概率分布函数为：
@@ -26,7 +25,7 @@ $$
 
 3. $x$岁的个体生存了$s$年，并在之后$t$年内死亡的概率：
 $$
-   _{s|t}q_x =Pr(s<T<s+t)=G(s+t)-G(s)= _{s+t}q_x-_{s}q_x
+_{s|t}q_x =Pr(s<T<s+t)=G(s+t)-G(s)= _{s+t}q_x-_{s}q_x
 $$
 
 4. 记$$ _{t}p_{x+s}$$为$x$岁的个体在生存至$x+s$岁之后，又生存了$t$年的条件概率
