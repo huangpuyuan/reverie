@@ -12,13 +12,19 @@ categories: Julia
 
 > 免费英文电子书，大学本科的统计学入门教材，其中的示例使用简单的 Julia 语言。[《使用 Julia 语言学习统计学》](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)
 
+
+* toc
+{:toc}
+
 ## **Introducing Julia**
 
 Programming goes hand in hand with mathematics, statistics, data science and many other fields. Scientists, engineers, data scientists and statisticians often need to automate computation that would otherwise take too long or be infeasible to carry out. This is for the purpose of prediction, planning, analysis, design, control, visualization or as an aid for theoretical research. Often, general programming languages such as Fortran, C/C++, Java, Swift, C#, Go, JavaScript or Python are used. In other cases, more mathematical/statistical programming languages such as Mathematica, Matlab/Octave, R, or Maple are employed. The process typically involves analyzing the problem at hand, writing code, analyzing behavior and output, re-factoring, iterating and improving the model. At the end of the day, a critical component is speed, specififically, the speed it takes to reach a solution - whatever it may be.
 
-![1566355025068](..\images\1566355025068.png)
+...
 
 The *Julia language and framework* developed in the last several years makes use of a variety of advances in compilation, computer languages, scientifific computation and performance optimization. It is a language designed with a view of improving on the previous Pareto-optimal frontier depicted in Figure 1.1. With syntax and style somewhat similar to R, Python and Matlab/Octave, and with performance comparable to that of C/C++ and Fortran, Julia attempts to break the so called *two* *language problem*. That is, it is postulated that practitioners may quickly create code in Julia, which also runs quickly. Further, re-factoring, improving, iterating and optimizing code can be done in Julia, and does not require the code to be ported to C/C++ or Fortran, since the Julia standard libraries, and almost all of Julia base are written in Julia.
+
+![1566355025068](..\images\1566355025068.png)
 
 ...
 
