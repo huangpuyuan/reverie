@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 《使用 Julia 语言学习统计学》
-categories: Julia
+title: 使用 Julia 语言学习统计学
+categories: Julia 
 ---
 
 **Julia** 是一个面向科学计算的高性能动态高级程序设计语言。其语法与其他科学计算语言相似。在许多情况下拥有能与编译型语言相媲美的性能。
@@ -41,7 +41,7 @@ Julia is first and foremost a *scientific programming language*. It is perfectly
 
 ...
 
-## 演示
+## **演示**
 
 #####  Julia的运行
 1. [**Julia’s REPL interface**](https://julialang.org/downloads/)
@@ -77,6 +77,7 @@ Julia is first and foremost a *scientific programming language*. It is perfectly
 ```
 ##### 输出结果  
 
+```md
 There is more than one way to say hello:  
 	Hello World!  
 	G’day World!  
@@ -95,6 +96,7 @@ These squares are just perfect:
 8.0  
 9.0  
 10.0  
+```
 
 > 文档：[Julia官方语言的文档](https://docs.julialang.org) 、[Julia中文文档](https://julia-zh-cn.readthedocs.io/zh_CN/latest/)
 
