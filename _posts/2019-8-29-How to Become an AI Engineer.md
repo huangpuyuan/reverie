@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何成为一个AI工程师
+title: 如何成为一名AI工程师
 categories: 人工智能 
 ---
 
@@ -25,6 +25,8 @@ categories: 人工智能
 ### 薪资和就业能力
 
 根据Indeed.com的说法，[人工智能或机器学习工程师](https://www.indeed.com/salaries/Artificial-Intelligence-Salaries)的[平均工资](https://www.indeed.com/salaries/Artificial-Intelligence-Salaries)是140,866美元，这是目前你可以获得的最高薪技术职业之一。在过去3年中，雇主对人工智能工程师的需求猛增，[2018年的增长率达到了344％](https://www.artificialintelligence-news.com/2019/03/15/machine-learning-jobs-high-paying-demand/)。
+
+![1567059060841](..\images\1567059060841.png)
 
 > ”If you have the ability and you’re willing to learn the technical know-how, now is the time to become an AI engineer. “
 
